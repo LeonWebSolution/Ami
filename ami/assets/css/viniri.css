@@ -1,0 +1,422 @@
+.section__banner-slide-title .span-blue {
+    color: #30B5DF;
+    font-size: 6rem;
+    font-weight: 700;
+    line-height: 93%;
+}
+.viniri-process-img {
+    margin-top: -15px;
+}
+.section__what-all-brekets .section__viniri-comand-title {
+    max-width: 100%;
+}
+.section__what-all .slide__what-all-left-text span {
+    font-weight: 500;
+    color: #111C27;
+}
+.section__quiz-viniri-left {
+    border-radius: 20px;
+    border: 0.5px solid #D1D6DB;
+    background: linear-gradient(72deg, #DEEFFF -65.52%, #F9FAFB 69.16%);
+}
+.section__quiz-viniri-right {
+    border-radius: 20px;
+    border: 0.5px solid #D1D6DB;
+    background: #FFF;
+}
+.section__quiz-viniri-container {
+    gap: 8px;
+}
+.section__what-all .slide__what-all-left-text .viniri-span-blue {
+    color: #30B5DF;
+}
+.section__what-all .slide__what-all-left-text .viniri-span-underline {
+    text-decoration-line: underline;
+    font-weight: 400;
+}
+.section__choose-item-viniri {
+    max-width: 40rem;
+    -ms-flex: 1 1 100%;
+    flex: 1 1 100%;
+}
+.section__choose-item-viniri .section__choose-item-text-text {
+    font-size: 1.5rem;
+}
+.section__choose-viniri {
+    background: linear-gradient(195deg, #EAF5FF -102.64%, #F9FAFB 75.97%);
+}
+.section__chose-left {
+    max-width: 55rem;
+}
+.section__chose-right {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}
+.section__chose-right-column {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.section__choose-viniri .section__choose-container {
+    display: flex;
+    justify-content: space-between;
+}
+.section__chose-right-column img {
+    width: 207px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.section__chose-right-column:nth-child(1) img:nth-child(1) {
+    height: 52%;
+}
+.section__chose-right-column:nth-child(1) img:nth-child(2) {
+    height: 45%;
+}
+.section__chose-right-column:nth-child(2) img:nth-child(1) {
+    height: 40%;
+}
+.section__chose-right-column:nth-child(2) img:nth-child(2) {
+    height: 57%;
+}
+.veneers-banner-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding-top: 0;
+}
+.veneers-banner-container > img {
+    width: 54rem;
+}
+.veneers-banner-main {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: flex-start;
+    max-width: 40rem;
+    padding-bottom: 4.5rem;
+    margin-left: -4rem;
+}
+.veneers-banner-tittle {
+    color: #111C27;
+    font-variant-numeric: lining-nums proportional-nums;
+    font-size: 3.2rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 125%;
+}
+.veneers-banner-tittle span {
+    color: #16A3D0;
+}
+.veneers-banner-content {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: flex-start;
+}
+.veneers-banner-block {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 10px;
+}
+.veneers-banner-subtittle {
+    color: #111C27;
+    font-variant-numeric: lining-nums proportional-nums;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+.veneers-banner-subtittle span {
+    color: #16A3D0;
+}
+.section__visit-left-title-veneers {
+    font-size: 3.2rem;
+}
+.section__visit-right-veneers img {
+    width: auto;
+}
+.section__visit-left-ul-veneers li {
+    font-size: 1.7rem;
+}
+.section__visit-left-ul-veneers {
+    padding-bottom: 2.4rem;
+}
+.section__history-lech-usp .section__photo-title-veneers {
+    text-align: center;
+    max-width: 80rem;
+    color: #111C27;
+    margin-bottom: 4rem;
+}
+.section__history-lech-usp .section__photo-title-veneers span {
+    color: #16A3D0;
+}
+.section__feedback-title-veneers {
+    font-size: 4rem;
+    text-align: center;
+    max-width: 80rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section__feedback-title-veneers span {
+    color: #30B5DF;
+}
+.section__visit-left-ul-banner-2-veneers li span {
+    font-weight: 500;
+    color: #16A3D0;
+}
+.section__visit-banner-2-veneers {
+    margin-top: 8rem;
+}
+.section__purpose-title-veneers {
+    max-width: 55rem;
+}
+.section__offer-title-veneers {
+    margin-bottom: 4rem;
+}
+.img-smiles {
+    width: 27.3rem;
+    object-fit: cover;
+    height: 500px;
+}
+.slide-smiles {
+    max-width: 55rem;
+    margin-right: 1.6rem;
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    background: #FFF;
+}
+.slide-smiles .img-smiles:nth-child(1) {
+    border-radius: 20px 0 0 20px;
+}
+.slide-smiles .img-smiles:nth-child(2) {
+    border-radius: 0 20px 20px 0;
+}
+.section__comand-tab-content-row-smiles {
+    justify-content: center;
+}
+.section__offer-title-smiles {
+    text-align: center;
+}
+.section__offer-title-smiles span {
+    color: #30B5DF;
+}
+.section__offer-container-spec {
+    padding: 4.6rem 0 4.6rem 1.5rem;
+}
+.swiper-slide-spec {
+    margin-right: 8px;
+}
+.section__comand-tab-content-spec {
+    overflow: visible !important;
+}
+.swiper-wrapper-spec {
+    overflow: visible;
+}
+.section__what-all-brekets .section__viniri-comand-title-slider {
+    max-width: 75rem;
+}
+.swiper-slide-selfie {
+    max-width: 28.3rem;
+}
+.slide__selfie-column {
+    height: 720px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 8px;
+    gap: 8px;
+}
+.slide__selfie-column img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 16px;
+}
+.swiper-slide-selfie-1 .slide__selfie-column img:nth-child(1) {
+    height: 385px;
+}
+.swiper-slide-selfie-1 .slide__selfie-column img:nth-child(2) {
+    height: 336px;
+}
+.swiper-slide-selfie-2 .slide__selfie-column img:nth-child(1) {
+    height: 304px;
+}
+.swiper-slide-selfie-2 .slide__selfie-column img:nth-child(2) {
+    height: 416px;
+}
+.swiper-slide-selfie-3 .slide__selfie-column img:nth-child(1) {
+    height: 344px;
+}
+.swiper-slide-selfie-3 .slide__selfie-column img:nth-child(2) {
+    height: 376px;
+}
+.swiper-slide-selfie-4 .slide__selfie-column img:nth-child(1) {
+    height: 400px;
+}
+.swiper-slide-selfie-4 .slide__selfie-column img:nth-child(2) {
+    height: 320px;
+}
+.section__what-all-brekets-selfie {
+    margin-bottom: 100px;
+}
+@media (max-width: 992px) {
+    .section__quiz-viniri-container {
+        flex-direction: column;
+    }
+    .section__chose-right-column img {
+        width: 160px;
+    }
+    .section__choose-viniri .section__choose-title {
+        max-width: 34rem;
+        font-size: 2.6rem;
+    }
+    .section__choose-viniri .section__choose-item-icon img {
+        width: 20px;
+        height: 20px;
+        margin-top: 5px;
+    }
+    .section__chose-left {
+        max-width: 33rem;
+    }
+    .veneers-banner-container > img {
+        width: 41rem;
+    }
+    .veneers-banner-main {
+        padding-bottom: 2.4rem;
+    }
+    .veneers-banner-tittle {
+        font-size: 2.6rem;
+    }
+    .section__what-all-brekets .section__viniri-comand-title-slider {
+        max-width: 64rem;
+    }
+    .swiper-slide-selfie {
+        max-width: 24.7rem;
+    }
+    .section__visit-right-veneers img {
+        margin-left: 11rem;
+    }
+    .section__history-lech-usp-veneers {
+        margin-top: 7rem;
+    }
+    .section__history-lech-usp-veneers .section__history-subtitle {
+        display: block;
+        text-align: center;
+    }
+    .swiper-slide-spec {
+        max-width: 72rem;
+    }
+    .swiper-slide-spec .section__offer-slide-img {
+        display: block;
+    }
+    .swiper-slide-spec .section__offer-slide-img-mob {
+        display: none;
+    }
+    .section__comand-tab-content-spec .section__comand-tab-content-row {
+        max-width: 72rem;
+    }
+    .section__history-lech-usp .section__photo-title-veneers {
+        max-width: 60rem;
+    }
+    .section__hurt-lech-veeners-1 .section__hurt-item {
+        max-width: 100%;
+        -ms-flex: 1 1 100%;
+        flex: 1 1 100%;
+    }
+    .section__hurt-lech-veeners-1 .section__visit-left-ul-veneers {
+        display: block;
+    }
+    .section__hurt-lech-veeners-1 .section__hurt-item-text {
+        max-width: 100%;
+    }
+    .section__hurt-lech-veeners-1 .button {
+        width: auto;
+    }
+    .section__hurt-lech-veeners-1 .section__hurt-item-row {
+        justify-content: flex-start;
+    }
+    .slide-smiles {
+        max-width: 100%;
+        justify-content: center;
+    }
+}
+@media (max-width: 576px) {
+    .section__banner-slide-title .span-blue {
+        font-size: 3.4rem;
+    }
+    .section__what-all-brekets .section__viniri-comand-title {
+        max-width: 27rem;
+        text-align: left;
+        margin: 0;
+    }
+    .section__what-all-brekets-veneers .section__comand-subtitle {
+        text-align: left;
+    }
+    .section__choose-viniri .section__choose-container {
+        flex-direction: column-reverse;
+        gap: 4rem;
+    }
+    .veneers-banner-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    .veneers-banner-container > img {
+        width: 100%;
+    }
+    .veneers-banner-main {
+        padding-bottom: 2.4rem;
+        margin-left: 0;
+        align-items: center;
+        padding-top: 3.2rem;
+    }
+    .section__what-all-brekets-selfie .section__viniri-comand-title {
+        max-width: 32rem;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .slide__selfie-column {
+        flex-direction: row;
+        height: 425px;
+    }
+    .slide__selfie-column img {
+        height: 100% !important;
+    }
+    .swiper-slide-selfie {
+        max-width: 32rem;
+    }
+    .swiper-slide-spec .section__offer-slide-img {
+        display: none;
+    }
+    .swiper-slide-spec .section__offer-slide-img-mob {
+        display: none;
+    }
+    .swiper-slide-spec .section__offer-slide-img-mob-left {
+        display: block;
+    }
+    .section__history-lech-usp .section__photo-title-veneers {
+        max-width: 30rem;
+        font-size: 2.4rem;
+    }
+    .section__hurt-lech-veeners-1 .section__hurt-item-row {
+        flex-wrap: wrap;
+        gap: 16px;
+    }
+    .section__hurt-lech-veeners-1 .button {
+        width: 100%;
+    }
+    .section__offer-title-smiles {
+        font-size: 3.2rem;
+    }
+    .img-smiles {
+        width: 49%;
+        height: 290px;
+    }
+    .section__visit-right-veneers img {
+        margin-left: 0;
+        width: 100%;
+    }
+    .section__visit-left-title-veneers {
+        font-size: 2.2rem;
+    }
+}

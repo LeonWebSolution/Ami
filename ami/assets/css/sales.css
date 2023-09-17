@@ -1,0 +1,56 @@
+.block-sales {
+    height: 38rem;
+}
+.sales-tabs {
+    padding-bottom: 40px;
+}
+.sales-wrapper {
+    flex-direction: column;
+    gap: 24px;
+}
+.sales-tittle-max-width {
+    max-width: 100%;
+}
+.sales-tittle-max-width span {
+    text-decoration-line: line-through;
+}
+@media (max-width: 992px) {
+    .section__offer-slide-img {
+        display: block;
+    }
+    .section__offer-slide-img-mob  {
+        display: none;
+    }
+    .block-sales {
+        flex-direction: row;
+    }
+    .block-sales picture {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+    .block-sales picture img {
+        height: auto;
+    }
+    .sales-tabs {
+        overflow-x: auto;
+    }
+    .sales-tabs .section__comand-tab {
+        text-wrap: nowrap;
+    }
+}
+@media (max-width: 576px) {
+    .block-sales {
+        flex-direction: column;
+    }
+    .section__offer-slide-img-mob  {
+        display: block;
+    }
+    .section__offer-slide-img {
+        display: none;
+    }
+    .block-sales {
+        height: auto;
+    }
+}
